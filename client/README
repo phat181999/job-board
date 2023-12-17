@@ -1,0 +1,5 @@
+create module, controller, services
+nest g module [name module]
+nest g controller [name controller]
+nest g module [name module]
+nest g service [name service] --no-spec
