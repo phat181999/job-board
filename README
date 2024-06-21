@@ -1,0 +1,8 @@
+create dockerfile
+
+- build docker image
+  docker build -t job-board-server .
+
+Run PostgreSQL Database Using Docker
+docker compose up -d
+using docker ps to check container

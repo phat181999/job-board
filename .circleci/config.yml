@@ -1,0 +1,6 @@
+version:
+jobs:
+  run_lint_client:
+    executor: node/default # use the default executor defined within the orb
+    steps:
+      - checkout
